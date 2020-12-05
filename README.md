@@ -1,4 +1,4 @@
 # resume
 
 
-This is my online resume. 
+This is my resume website. It's developed with html and css only. 
